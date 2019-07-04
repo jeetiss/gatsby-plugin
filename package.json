@@ -1,9 +1,9 @@
 {
   "name": "@jeetiss/gatsby-scoped-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gatsby scoped plugin for nothing",
-  "main": "src/index.js",
-  "module": "src/index.js",
+  "main": "index.js",
+  "module": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
